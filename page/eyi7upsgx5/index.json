@@ -1,0 +1,41 @@
+{
+  "id": "eyi7upsgx5",
+  "name": {
+    "tr": "Kategoriler",
+    "en": "Categories",
+    "ar": "الأقسام"
+  },
+  "description": {
+    "tr": "Bu sayfadaki başlıklar ve haberler kurgusal örneklerdir.",
+    "en": "Headlines and stories on this page are fictional samples.",
+    "ar": "العناوين والأخبار في هذه الصفحة نماذج افتراضية."
+  },
+  "keyword": {
+    "tr": "haber, şehir rehberi, yerel haber",
+    "en": "news, city guide, local news",
+    "ar": "أخبار، دليل المدينة، أخبار محلية"
+  },
+  "path": "kategoriler",
+  "icon": "newspaper",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "z7m8h6",
+      "ejhkqe",
+      "4qtx0u"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Kategoriler",
+    "en": "Categories",
+    "ar": "الأقسام"
+  },
+  "date": "2026-10-30T22:17:54.399Z",
+  "update": "2026-10-30T22:17:54.404Z"
+}

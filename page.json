@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "id": "28ym9whsb6",
+      "name": {
+        "tr": "Künye",
+        "en": "Masthead",
+        "ar": "بيانات الإدارة"
+      },
+      "description": {
+        "tr": "Sahibi, sorumlu müdür, yer sağlayıcı ve içerik sağlayıcı bilgisi.",
+        "en": "Owner, editor in charge, hosting provider and content provider details.",
+        "ar": "المالك والمحرر المسؤول ومزوّد الاستضافة ومزوّد المحتوى."
+      },
+      "path": "kunye",
+      "icon": "badge",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "a0sbis"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "eyi7upsgx5",
+      "name": {
+        "tr": "Kategoriler",
+        "en": "Categories",
+        "ar": "الأقسام"
+      },
+      "description": {
+        "tr": "Bu sayfadaki başlıklar ve haberler kurgusal örneklerdir.",
+        "en": "Headlines and stories on this page are fictional samples.",
+        "ar": "العناوين والأخبار في هذه الصفحة نماذج افتراضية."
+      },
+      "path": "kategoriler",
+      "icon": "newspaper",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "z7m8h6",
+          "ejhkqe",
+          "4qtx0u"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "fuwvmyqouj",
+      "name": {
+        "tr": "Haber Gönder",
+        "en": "Send a Story",
+        "ar": "أرسل خبرًا"
+      },
+      "description": {
+        "tr": "Konuyu ve uygun günü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur.",
+        "en": "Choose a topic and a convenient day; on this demo site your request is created only in your browser.",
+        "ar": "اختر الموضوع واليوم المناسب؛ يُنشأ طلبك في متصفحك فقط."
+      },
+      "path": "haber-gonder",
+      "icon": "edit_note",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxal1z"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "o96px7q9c2",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Şehir ve haber odası görüntüleri; kişi yoktur.",
+        "en": "City and newsroom images; no people.",
+        "ar": "صور المدينة وغرفة الأخبار؛ دون أشخاص."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "9s0ed4"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About",
+        "ar": "من نحن"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 4,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "o8molw",
+          "pqb2kr"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Şehir Gündemi, haberi doğrulayarak ve tarihleyerek yayımlayan kurgusal bir demo yerel portaldır. Haberler, kişiler ve kurumlar kurgusaldır; resmî ilan yayımlanmaz.",
+        "en": "Şehir Gündemi is a fictional demo local portal that publishes stories after verifying and dating them. Stories, people and organisations are fictional; no official notices are published.",
+        "ar": "شهر غوندمي بوابة محلية تجريبية افتراضية تنشر الأخبار بعد التحقق منها وتأريخها. الأخبار والأشخاص والمؤسسات افتراضية ولا تُنشر إعلانات رسمية."
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 5,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "k9ct01",
+          "k9mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon, e-posta ve çalışma saatleri.",
+        "en": "Address, phone, e-mail and opening hours.",
+        "ar": "العنوان والهاتف والبريد الإلكتروني وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}
