@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 4,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "o8molw",
+      "pqb2kr"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Şehir Gündemi, haberi doğrulayarak ve tarihleyerek yayımlayan kurgusal bir demo yerel portaldır. Haberler, kişiler ve kurumlar kurgusaldır; resmî ilan yayımlanmaz.",
+    "en": "Şehir Gündemi is a fictional demo local portal that publishes stories after verifying and dating them. Stories, people and organisations are fictional; no official notices are published.",
+    "ar": "شهر غوندمي بوابة محلية تجريبية افتراضية تنشر الأخبار بعد التحقق منها وتأريخها. الأخبار والأشخاص والمؤسسات افتراضية ولا تُنشر إعلانات رسمية."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-10-30T22:17:54.432Z",
+  "date": "2026-10-30"
+}
